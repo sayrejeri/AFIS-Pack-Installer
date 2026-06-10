@@ -1,7 +1,7 @@
 # AFIS Pack Installer
 
-![Latest Release](https://img.shields.io/github/v/release/sayrejeri/AFIS-Pack-Installer)
-![Downloads](https://img.shields.io/github/downloads/sayrejeri/AFIS-Pack-Installer/total)
+![Version](https://img.shields.io/badge/version-v1.0.0-brightgreen)
+![Status](https://img.shields.io/badge/status-active-success)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
 
@@ -11,6 +11,14 @@ AFIS Pack Installer reads `.mcpack`, `.mcaddon`, `.zip`, or unpacked pack folder
 
 > ⚠️ **This tool runs locally on your machine.**  
 > It does not upload your server files, SFTP credentials, worlds, or packs anywhere.
+
+---
+
+## ⬇️ Download
+
+Download the latest version from the **Releases** page:
+
+https://github.com/sayrejeri/AFIS-Pack-Installer/releases/latest
 
 ---
 
